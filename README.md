@@ -74,8 +74,8 @@ class BinaryClassification(nn.Module):
         return x
 ```
    K-Fold Cross Validation is used to tune the number of neurons in the first hidden layer and the second hidden layer.</br>The metrics for Random Forest are as the following:</br>
-* Accuracy= 85.74
-* Precision= 89.27
-* Recall= 81.26
-* F1 score= 85.08
-* Specificity= 90.23
+   * Accuracy= 85.74
+   * Precision= 89.27
+   * Recall= 81.26
+   * F1 score= 85.08
+   * Specificity= 90.23
